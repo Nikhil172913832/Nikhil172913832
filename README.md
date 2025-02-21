@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! I'm Nikhil, a passionate and inquisitive <br>individual currently pursuing a Bachelor of Technology in<br>Computer Science and Engineering at the Indian Institute<br>of Information Technology, Una. I have a deep love for<br>machine learning and an affinity for programming. I am<br> on a journey to explore the world of artificial intelligence<br> and the underlying code and algorithms which make it<br> possible.
+Hey there! I'm Nikhil, a passionate and inquisitive individual currently pursuing a Bachelor of Technology in Computer Science and Engineering at the Indian Institute of Information Technology, Una. I have a deep love for machine learning and an affinity for programming. I am on a journey to explore the world of artificial intelligence and the underlying code and algorithms which make it possible.
 
 
 ## 🌐 Socials:
