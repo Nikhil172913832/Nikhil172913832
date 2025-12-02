@@ -58,16 +58,4 @@ I enjoy working across the stack: from data engineering and distributed systems 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
----
-
-# 📊 GitHub Stats
-
-![Summary](https://raw.githubusercontent.com/Nikhil172913832/Nikhil172913832/master/profile-summary-card-output/nord_dark/0-profile-details.svg)
-
-![Languages](https://raw.githubusercontent.com/Nikhil172913832/Nikhil172913832/master/profile-summary-card-output/nord_dark/1-repo-lang.svg)
-
-![Commits](https://raw.githubusercontent.com/Nikhil172913832/Nikhil172913832/master/profile-summary-card-output/nord_dark/3-stats.svg)
-
-![Streak](https://raw.githubusercontent.com/Nikhil172913832/Nikhil172913832/master/profile-summary-card-output/nord_dark/4-productive-time.svg)
-
 
