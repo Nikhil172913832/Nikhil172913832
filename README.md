@@ -61,7 +61,8 @@ I enjoy working across the stack: from data engineering and distributed systems 
 ---
 
 # 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nikhil172913832&show_icons=true&theme=dark)
-![GitHub Streak](https://streak-stats.demolab.com?user=Nikhil172913832&theme=dark&hide_border=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil172913832&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=Nikhil172913832&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=Nikhil172913832&layout=compact&theme=dark)
+
 
