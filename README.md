@@ -59,3 +59,5 @@ I enjoy working across the stack: from data engineering and distributed systems 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 
+![](http://profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=default) 
+
