@@ -61,6 +61,6 @@ I enjoy working across the stack: from data engineering and distributed systems 
 ---
 
 # 📊 GitHub Stats
-[![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikhil172913832)](https://github.com/anuraghazra/github-readme-stats)
+[![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikhil172913832)]
 
 
